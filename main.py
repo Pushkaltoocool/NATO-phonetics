@@ -15,7 +15,7 @@ def give_list():
 try:
     give_list()
 except:
-    print("Please includes alphabets only")
+    print("Please include alphabets only")
     give_list()
 
 
